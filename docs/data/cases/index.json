@@ -1,10 +1,58 @@
 [
     {
         "id": "10737437-307e-4232-b687-b03a0d7cfa32",
-        "name":"Web App - Swappit",
-        "description":"Swappit is een veilingsplatform voor festivaltickets dat kopers en verkopers in contact brengt. Dit platform garandeert dat de gebruiker zijn ticket kan ruilen op een veilige en eenvoudige manier. De backoffice, gemaakt in Laravel, haalt data op uit een MySQL database en verdeelt dit via een eigen API. Via deze API consumeren we data in de frontoffice, die gemaakt is in Angular.",
-        "thumbnailUrl":"https://pgmgent-1920-students.github.io/atwork2-case1-baas/static/cases/images/case_lg_swapit_tiles.jpg",
-        "createdAt":1587591598046,
-        "modifiedAt":1587591598046
+        "name":"Website Graduaat Programmeren",
+        "description":"Voor het vak @work 2 kregen de studenten de opdracht om de toekomstige website voor het graduaat te maken.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/pgm-site-tn.png",
+        "image": "#",
+        "video": "#"
+    },
+    {
+        "id": "10737437-307e-4232-b687-b03a0d7cfa34",
+        "name":"Website Arne Quinze",
+        "description":"Voor het vak @work 1 kregen de studenten de opdracht om een bestaande webiste na te maken. De website van de Belgische kunstenaar Arne Quinze bleek een goeie oefening voor de studenten.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/arne-tn.jpg",
+        "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/arne-img.png",
+        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/arne-video.mp4"
+    },
+    {
+        "id": "10737437-307e-4232-b687-b03a0d7cfa36",
+        "name":"Website Matthias Talloen",
+        "description":"Voor het vak @work 1 kregen de studenten de opdracht om een bestaande webiste na te maken. De website van Matthias Talloen bleek een goeie oefening voor de studenten. Bij deze opdracht leerden de studenten ook programmeren in teams van twee",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/matthias-tn.png",
+        "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/matthias-img.png",
+        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/matthias-video.mp4"
+    },
+    {
+        "id": "10737437-307e-4232-b687-b03a0d7cfa38",
+        "name":"Website Establis",
+        "description":"Voor het vak @work 1 kregen de studenten de opdracht om een bestaande webiste na te maken. De website van Establis bleek een goeie oefening voor de studenten. Bij deze opdracht leerden de studenten ook werken met API-data.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/establis-tn.png",
+        "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/establis-img.png",
+        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/establis-video.mp4"
+    },
+    {
+        "id": "10737437-307e-4232-b687-b03a0d7cfa40",
+        "name":"8007C4MP 2020",
+        "description":"<p>Bij de start van het 2e semester organiseerde het graduaat programmeren een bootcamp. Gedurende deze week kregen de studenten de tijd om een probleem op te lossen op een ecologische manier met crossmediale applicaties.</p><p>Lennert en Jesse bedachten een oplossing om mensen te stimuleren meer de fiets te nemen.  Ze bedachten een elektronisch fietsslot met handige features. Op het einde van de rit konden ze hun idee ondersteunen met een app, website, poster, 3d model en een korte video.</p>",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/bootcamp-tn.png",
+        "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/bootcamp-img.png",
+        "video": "https://www.youtube.com/watch?v=TVkG5r5xCtE&feature=youtu.be"
+    },
+    {
+        "id": "10737437-307e-4232-b687-b03a0d7cfa42",
+        "name":"Parallax website",
+        "description":"Voor het vak UI/UX Prototyping 1 maakten de studenten een website met het parallax-effect. Cool!",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/parallax-tn.png",
+        "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/parallax-img.png",
+        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/parallax-video.mp4"
+    },
+    {
+        "id": "10737437-307e-4232-b687-b03a0d7cfa44",
+        "name":"Ghent Parkingstates",
+        "description":"Voor het vak webprogramming 2 kregen de studenten de opdracht om een overzicht te maken van de statussen van de opbenbare parkeerplekken in Gent. Via de public API konden ze de data gebruiken.",
+        "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/gent-tn.jpeg",
+        "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/gent-img.png",
+        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/gent-video.mp4"
     }
 ]
