@@ -6,10 +6,10 @@
     "phone":"+32 9 234 86 00",
     "locationImg":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/contact/images/campus.jpg",
     "contactPersons": [
-        {"firstName": "Maaike", "function": "Verantwoordelijke Onderwijs", "email": "maaike.callens@arteveldehs.be"},
-        {"firstName": "Inge", "function": "Leercoach", "email": "inge.decank@arteveldehs.be"},
-        {"firstName": "Philippe", "function": "Verantwoordelijke Werkplekleren", "email": "philippe.depauw@arteveldehs.be"},
-        {"firstName": "Olivier", "function": "Verantwoordelijke Curriculum", "email": "olivier.parent@arteveldehs.be"}
+        {"firstName": "Maaike", "function": "Verantwoordelijke Onderwijs", "email": "maaike.callens@arteveldehs.be", "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/maaike.jpg"},
+        {"firstName": "Inge", "function": "Leercoach", "email": "inge.decank@arteveldehs.be", "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/inge.jpg"},
+        {"firstName": "Philippe", "function": "Verantwoordelijke Werkplekleren", "email": "philippe.depauw@arteveldehs.be", "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/philippe.jpg"},
+        {"firstName": "Olivier", "function": "Verantwoordelijke Curriculum", "email": "olivier.parent@arteveldehs.be", "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/olivier.jpg"}
     ]
 }   
 
