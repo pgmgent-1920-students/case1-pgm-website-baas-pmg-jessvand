@@ -1,15 +1,15 @@
-[
-    {
-        "place": "Campus Mariakerke (Gent)",
-        "adress":"Industrieweg 232, 9030 Mariakerke",
-        "email":"info.pgm@arteveldehs.be",
-        "phone":"+32 9 234 86 00",
-        "locationImg":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/contact/images/campus.jpg",
-        "contactPersons": [
-            {"firstName": "Maaike", "function": "Verantwoordelijke Onderwijs", "email": "maaike.callens@arteveldehs.be"},
-            {"firstName": "Inge", "function": "Leercoach", "email": "inge.decank@arteveldehs.be"},
-            {"firstName": "Philippe", "function": "Verantwoordelijke Werkplekleren", "email": "philippe.depauw@arteveldehs.be"},
-            {"firstName": "Olivier", "function": "Verantwoordelijke Curriculum", "email": "olivier.parent@arteveldehs.be"}
-        ]
-    }
-]
+{
+    
+    "place": "Campus Mariakerke (Gent)",
+    "adress":"Industrieweg 232, 9030 Mariakerke",
+    "email":"info.pgm@arteveldehs.be",
+    "phone":"+32 9 234 86 00",
+    "locationImg":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/contact/images/campus.jpg",
+    "contactPersons": [
+        {"firstName": "Maaike", "function": "Verantwoordelijke Onderwijs", "email": "maaike.callens@arteveldehs.be"},
+        {"firstName": "Inge", "function": "Leercoach", "email": "inge.decank@arteveldehs.be"},
+        {"firstName": "Philippe", "function": "Verantwoordelijke Werkplekleren", "email": "philippe.depauw@arteveldehs.be"},
+        {"firstName": "Olivier", "function": "Verantwoordelijke Curriculum", "email": "olivier.parent@arteveldehs.be"}
+    ]
+}   
+
