@@ -6,7 +6,8 @@
         "tag": "AtWork",
         "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/pgm-site-tn.png",
         "image": "#",
-        "video": "#"
+        "video": "#",
+        "websiteUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-pmg-jessvand/"
     },
     {
         "id": "10737437-307e-4232-b687-b03a0d7cfa34",
@@ -15,7 +16,8 @@
         "tag": "AtWork",
         "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/arne-tn.jpg",
         "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/arne-img.png",
-        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/arne-video.mp4"
+        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/arne-video.mp4",
+        "websiteUrl": "https://www.arnequinze.com/"
     },
     {
         "id": "10737437-307e-4232-b687-b03a0d7cfa36",
@@ -24,7 +26,8 @@
         "tag": "AtWork",
         "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/matthias-tn.png",
         "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/matthias-img.png",
-        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/matthias-video.mp4"
+        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/matthias-video.mp4",
+        "websiteUrl": "https://matthiastalloen.be/"
     },
     {
         "id": "10737437-307e-4232-b687-b03a0d7cfa38",
@@ -33,7 +36,8 @@
         "tag": "AtWork",
         "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/establis-tn.png",
         "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/establis-img.png",
-        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/establis-video.mp4"
+        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/establis-video.mp4",
+        "websiteUrl": "https://pgmgent-1920-students.github.io/case-3-establis-pmg-jessvand/"
     },
     {
         "id": "10737437-307e-4232-b687-b03a0d7cfa40",
@@ -42,7 +46,8 @@
         "tag": "UiUx",
         "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/bootcamp-tn.png",
         "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/bootcamp-img.png",
-        "video": "https://www.youtube.com/embed/TVkG5r5xCtE"
+        "video": "https://www.youtube.com/embed/TVkG5r5xCtE",
+        "websiteUrl": "https://pgmgent-1920-students.github.io/crowdfunding-pmg-jessvand/"
     },
     {
         "id": "10737437-307e-4232-b687-b03a0d7cfa42",
@@ -51,7 +56,8 @@
         "tag": "UiUx",
         "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/parallax-tn.png",
         "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/parallax-img.png",
-        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/parallax-video.mp4"
+        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/parallax-video.mp4",
+        "websiteUrl": "https://pmg-jessvand.github.io/parallax-website/"
     },
     {
         "id": "10737437-307e-4232-b687-b03a0d7cfa44",
@@ -60,6 +66,7 @@
         "tag": "Webpgm",
         "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/gent-tn.jpeg",
         "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/gent-img.png",
-        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/gent-video.mp4"
+        "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/gent-video.mp4",
+        "websiteUrl": "https://pmg-jessvand.github.io/ghent-parking-status/"
     }
 ]
