@@ -5,7 +5,7 @@
         "description":"Voor het vak @work 2 kregen de studenten de opdracht om de toekomstige website voor het graduaat te maken.",
         "tag": "AtWork",
         "thumbnailUrl":"https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/pgm-site-tn.png",
-        "image": "#",
+        "image": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/cases/images/pgm-site-img.png",
         "video": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/video/pgm-site-video.mp4",
         "websiteUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-pmg-jessvand/"
     },
