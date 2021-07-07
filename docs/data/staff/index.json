@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Luk Bouters",
+        "function": "Opleidingsdirecteur",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/luk.jpg"
+    },
+    {
+        "name": "Pieter Vandaele",
+        "function": "Opleidingscoördinator",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/pieter.jpg"
+    },
+    {
+        "name": "Maaike Callens",
+        "function": "Verantwoordelijke onderwijs en trajectbeheer",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/maaike.jpg"
+    },
+    {
+        "name": "Olivier Parent",
+        "function": "Verantwoordelijke curriculum en docent",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/olivier.jpg"
+    },
+    {
+        "name": "Dieter De Weirdt",
+        "function": "Docent",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/dieter.jpg"
+    },
+    {
+        "name": "Inge De Canck",
+        "function": "Leercoach",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/inge.jpg"
+    },
+    {
+        "name": "Evelien Rutsaert",
+        "function": "Docent",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/evelien.jpg"
+    },
+    {
+        "name": "Philippe De Pauw - Waterschoot",
+        "function": "Verantwoordelijke Werkplekleren",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/philippe.jpg"
+    },
+    {
+        "name": "Frederick Roegiers",
+        "function": "Docent",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/frederick.jpg"
+    },
+    {
+        "name": "Lennart Dubois",
+        "function": "Docent",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/lennart.jpg"
+    },
+    {
+        "name": "Claire Geeraerts",
+        "function": "Docent",
+        "thumbnailUrl": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-pmg-jessvand/static/staff/images/claire.jpg"
+    }
+]
